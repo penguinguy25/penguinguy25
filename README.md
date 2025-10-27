@@ -7,4 +7,6 @@ Stuff about me:<br>
 - I'm stupid
 - I like the color purple
 - I speedcube (decent at it I guess? best official solve was a 21.58s)
+## Discord: penguinguy25
+(^ if you want to add me :D)
 ### see you!
