@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**penguinguy25/penguinguy25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# hello yall! 🐧
+I'm penguin, a programmer that doesn't really know what he's doing<br>
+Stuff about me:<br>
+- I know a bit of Python
+- Working on my C journey right now (it's going pretty bad)
+- Made a gravity sim in C (unfortunately this 20 line project is my most notable and important one)
+- I'm stupid
+- I like the color purple
+- I speedcube (decent at it I guess? best official solve was a 21.58s)
+### see you!
